@@ -10,7 +10,7 @@
 
 ## 📌 Sobre el Proyecto
 
-Este proyecto (Módulo 3 de Data Science en Henry) está enfocado en la aplicación de técnicas de Business Intelligence (BI) para el análisis de ventas.
+Este proyecto está enfocado en la aplicación de técnicas de Business Intelligence (BI) para el análisis de ventas.
 
 A través de herramientas como Power BI y Python, se implementaron soluciones que transforman datos crudos en un modelo relacional robusto y en Dashboards interactivos para la toma de decisiones empresariales.
 
